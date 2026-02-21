@@ -1,0 +1,15 @@
+{
+  "name": "ultra-wave-service-secure-jnc",
+  "version": "1.0.0",
+  "description": "Distributed system for real-time data processing",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": ["ai", "infrastructure"],
+  "author": "Yoshi Kondo",
+  "license": "MIT"
+}
